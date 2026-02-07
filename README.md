@@ -9,7 +9,7 @@
 
 <h3 align="left">What i use:</h3>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Radrrrr" height="30" width="40" /></a>
-          
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" a;t="Radrrr" heigjt="30" width="40" /></a>          
 </p>
 
 
