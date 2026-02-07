@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+`Whoami` Radr
+`My Hobbies` 
 <!--
 **Radr443/Radr443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
