@@ -1,4 +1,4 @@
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://github.com/Radr443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Radr443" height="30" width="40" /></a>
 <a href="https://instagram.com/00x0Rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="00x0Rd" height="30" width="40" /></a>
