@@ -8,7 +8,7 @@
 <a href="https://discord.com/users/636336865708081199" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/discord.svg" alt="Radrrrr" height="30" width="40" /></a>
 
 <h3 align="left">What i use:</h3>
-<a <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Radrrrr" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Radrrrr" height="30" width="40" /></a>
           
 </p>
 
