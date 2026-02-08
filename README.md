@@ -12,14 +12,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" " height="30" width="40" /></a> 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  height="30" width="40" /></a>
 
-<h3 align="left">What im learning:</h3>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="30" width="40" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" width="40" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" width="40" /></a>
-<img src="https://raw.githubusercontent.com/tabler/tabler-icons/refs/heads/main/icons/filled/cloud.svg" height="30" width="40" /></a>
-
-
 ## 🔎 Currently Learning
 - Windows Forensics
 - Offensive security
