@@ -10,8 +10,12 @@
 <h3 align="left">Operating Systems i use:</h3>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Radrrrr" height="30" width="40" /></a> 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Radrrr" height="30" width="40" /></a>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Radrrr" height="30" width="40" /></a>
+
+<h3 align="left">What Im learning:</h3>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="30" width="40"
+
 
 </p>
 
