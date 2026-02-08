@@ -18,6 +18,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" width="40" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" width="40" /></a>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Radr443)
+
 
 
 
