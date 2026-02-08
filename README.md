@@ -19,6 +19,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" width="40" /></a>
 <img src="https://raw.githubusercontent.com/tabler/tabler-icons/refs/heads/main/icons/filled/cloud.svg" height="30" width="40" /></a>
 
+
+## 🔎 Currently Learning
+- Windows Forensics
+- Offensive security
+- DevSecOps | Systems | Data
+  
+
+## 🛠️ Current Projects
+- Seraph Software
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Radr443)
 
 
