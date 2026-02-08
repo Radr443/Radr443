@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Regular+400+&size=17&letterSpacing=small&duration=2250&pause=1000&color=199A0C&background=FFFFFF00&width=435&lines=%24whoami;Radr+%3A)" alt="Typing SVG" /></a>
 
-<a href="https://github.com/USERNAME/REPO/stargazers">
-  <img src="https://img.shields.io/badge/⭐%20Star-This%20Repo-yellow?style=for-the-badge">
-</a>
+[![Star this repo](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)](https://github.com/USERNAME/REPO/stargazers)
+
 
 
 
