@@ -25,6 +25,7 @@
 - Seraph Software
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Radr443)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radr443)](https://github.com/Radr443/github-readme-stats)
 
 
 
