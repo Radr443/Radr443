@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Regular+400+&size=17&letterSpacing=small&duration=2250&pause=1000&color=199A0C&background=FFFFFF00&width=435&lines=%24whoami;Radr+%3A)" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://github.com/Radr443/Radr443/stargazers">
+<p align="left">
+  <a href="https://github.com/Radr443/Radr443">
     <img src="https://img.shields.io/badge/⭐_STAR_MY_REPO-0f172a?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=020617&color=020617">
   </a>
 </p>
