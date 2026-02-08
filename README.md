@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400+&size=17&letterSpacing=small&duration=1000&pause=1000&color=199A0C&background=FFFFFF00&width=435&lines=%24whoami;Radr+%3A))](https://git.io/typing-svg)
+
+
 <h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://github.com/Radr443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Radr443" height="30" width="40" /></a>
