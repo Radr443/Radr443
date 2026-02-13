@@ -25,9 +25,10 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  height="30" width="40" /></a>
 
 ## 🔎 Currently Learning
-- Windows Forensics | Malware Analysis
+- Windows Forensics | Malware Analysis 
 - Offensive security
 - DevSecOps | Systems | Data
+- OSINT Exploring 
   
 
 ## 🛠️ Current Projects
