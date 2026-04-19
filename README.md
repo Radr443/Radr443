@@ -35,7 +35,9 @@
   
 
 ## 🛠️ Current Projects
-- Seraph Software
+- Seraph Software [Owner/Developer]
+- -> Seraph Optimisation
+- DirbStalker [Developer]
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Radr443)
 </p>
